@@ -1,8 +1,8 @@
 ### Hello there (in Obi Wan's voice) 👋😅
-I'm a freelance web developer, specializing in js ecosystem
+I'm a web developer, specializing in js ecosystem
 - 🔭 I’m currently working on some personal projects on js franeworks.
 - 🌱 I’m currently learning anything and everything related to js.
-- 📫 How to reach me: prswebdev@gmail.com or pratyushsri.25@gmail.com
+- 📫 How to reach me: pratyushsri.25@gmail.com
 - 😄 Pronouns: He/Him
 
 <!--
